@@ -27,7 +27,7 @@ Plateformes : Game Boy (Gen 1), Game Boy Color (Gen 2), GBA (Gen 3), NDS Gen 4 (
 
 ## Formats officiels Gen 6 à 9
 - Les fichiers de sauvegarde à partir de Épée et Bouclier ne sont pas encore lu suite à un chiffrement de la sauvegarde Switch.
-- Sauvegardes 3DS sont lues directement (X/Y, ROSA, Soleil/Lune, USUL), en lecture seule.
+- Les sauvegardes 3DS sont lues directement (X/Y, ROSA, Soleil/Lune, USUL), mais en lecture seule.
 
 ## Banques
 - Deux familles séparées : **Jeux officiels** et **ROM hacks**, chacune avec autant de banques que voulu.
