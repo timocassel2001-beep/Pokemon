@@ -26,10 +26,8 @@ Plateformes : Game Boy (Gen 1), Game Boy Color (Gen 2), GBA (Gen 3), NDS Gen 4 (
 - Import/export de fichiers `.pk1` à `.pk5` (format PKHeX), boîtes de 30 en nombre illimité.
 
 ## Formats officiels Gen 6 à 9
-- Fichiers `.pk6` / `.pk7` (3DS), `.pk8` (Épée/Bouclier), `.pb8` (DÉ/PS), `.pk9` (Écarlate/Violet), chiffrés ou non.
-  Les espèces Gen 9 d'Écarlate/Violet (index interne différent) sont retrouvées par leur nom.
-- Sauvegardes 3DS lues directement (X/Y, ROSA, Soleil/Lune, USUL), en lecture seule.
-- Pas encore : `.pa8` (Légendes Arceus), `.pb7` (Let's Go), Légendes Z-A, sauvegardes Switch (chiffrées).
+- Les fichiers de sauvegarde à partir de Épée et Bouclier ne sont pas encore lu suite à un chiffrement de la sauvegarde Switch.
+- Sauvegardes 3DS sont lues directement (X/Y, ROSA, Soleil/Lune, USUL), en lecture seule.
 
 ## Banques
 - Deux familles séparées : **Jeux officiels** et **ROM hacks**, chacune avec autant de banques que voulu.
