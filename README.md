@@ -81,7 +81,10 @@ Tutoriel complet, avec d'autres logiciels (Delta Patcher, xdelta UI, UniPatcher,
 
 Le dossier [outils/master-living-dex](outils/master-living-dex) contient une banque et un suivi de Living Dex qui fonctionnent dans le navigateur.
 Ils sont compatibles avec les sauvegardes de tous ces patchs, de la Gen 1 à la Gen 5 : voir [docs/BANQUE.md](docs/BANQUE.md).
-L'ensemble des Pokémon attrapés sur chaque versions sont compatible à la manière des jeux officielles. Aucune donnée des rencontres statiques, échange et cadeau en jeu et des rencontres sauvage n'a été modifiée
+L'ensemble des Pokémon attrapés sur chaque versions sont compatible à la manière des jeux officielles. Aucune donnée des rencontres statiques, échange et cadeau en jeu et des rencontres sauvage n'a été modifiée.
+La banque Pokémon est compatible avec certaines ROM Hack tels que Pokemon Eclat Pourpre V2, Pokemon Emerald Platinum et Pokemon Coeur d'Or Ultra. Un système permet de vérifier le binaire d'une sauvegarde afin d'ajouter ses propres Rom Hack.
+Créez autant de boîtes et de banque différentes, suivez les méthodes d'évolution et complétez tout les dex de chaque jeux et du dex national à la manière d'un Pokemon Home !
+La sauvegarde de la banque se fait via le cache du navigateur mais aussi grâce au téléchargement et importation des données JSON.
 
 ## Arborescence
 
