@@ -34,7 +34,8 @@ Plateformes : Game Boy (Gen 1), Game Boy Color (Gen 2), GBA (Gen 3), NDS Gen 4 (
 - Chaque Pokémon garde son origine (jeu officiel ou hack) et ses octets d'origine ; renvoyer un Pokémon dans
   un autre jeu que son jeu d'origine demande une confirmation (avertissement si la numérotation diffère).
 - « Synchroniser le Dex » : coche dans le Pokédex du jeu (ou du hack) les espèces présentes dans la sauvegarde,
-  shiny compris, avec option doublons → quota de transfert.
+  shiny compris, avec option doublons → quota de transfert,
+- Il n'est pas conseillé de transférer les Pokémon issues de ROM hacks entre eux ou vers un jeux officiel dû au changement de binarité de la ROM Hack concernée.
 
 ## Transferts entre jeux officiels
 « Transférer vers un autre jeu… » (fiche) ou « Transférer la boîte… » dans une banque Jeux officiels.
