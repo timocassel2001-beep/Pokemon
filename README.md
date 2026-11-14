@@ -76,6 +76,7 @@ Tutoriel complet, avec d'autres logiciels (Delta Patcher, xdelta UI, UniPatcher,
 - **Duo surprise** (deux dresseurs ordinaires qui vous voient en même temps) : chacun garde son équipe complète.
 - **Gen 1** : faute de place dans la ROM, les dresseurs les plus faibles ont 5 Pokémon au lieu de 6 (126 dans Rouge et Bleu, 135 dans Jaune). Les barres de PV ne sont pas accélérées.
 - **Gen 2** : les dresseurs sont renforcés **dans la limite de la place** : surtout 4 Pokémon dans Or et Argent, 3 dans Cristal. Les barres ne sont pas accélérées. Voir [docs/GEN1_GEN2.md](docs/GEN1_GEN2.md).
+- **Gen 1 à 5** : chaque entrées Pokedex dispose tous de leur méthode d'évolution. Pour les entrées dépassant la limite de caractère, une préférence pour la méthode est appliquée au détriment de l'information sur le pokémon.
 
 ## Banque Pokémon (Master Living Dex)
 
