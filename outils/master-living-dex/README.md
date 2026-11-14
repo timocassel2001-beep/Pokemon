@@ -47,7 +47,7 @@ La règle des vrais jeux prime : prise en charge des échanges dans une même g�
 ## Guide des jeux (onglet dédié)
 **Par jeu** : pour chaque jeu officiel, un résumé (capturables, par évolution/reproduction, à vérifier, à faire venir), puis :
 - *À faire venir d'un autre jeu* : Pokémon du Pokédex du jeu introuvables sur place, regroupés par jeu source
-  (même génération d'abord, puis la génération précédente la plus proche), avec le chemin officiel (Banque officielle ou quota de transfert).
+  (même génération d'abord, puis la génération précédente la plus proche), avec le chemin officiel.
 - *À vérifier* : Certains Pokémon dans les Pokédex régionaux n'ont pas de lieu de capture connu (don, Pokémon fixe, exclusivité de l'autre version).
 - *Méthodes d'évolution* : regroupées par type (niveau, objets, échanges, conditions, lieux, spéciales, impossibles + jeu où les faire).
 **Par Pokémon** : fiche complète (sprites normal/shiny, types, catégorie, description, disponibilité dans chaque jeu, évolutions selon le jeu, nombre d'exemplaires dans les banques). Avec un lien « Fiche complète » depuis le Pokédex National.
