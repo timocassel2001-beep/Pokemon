@@ -9,7 +9,7 @@ Suivi d'un Living Dex complet sur 16 jeux officiels + Banque de Pokémon issus d
 ## Organisation
 - `src/data/games.js` : jeux suivis et Pokédex disponible dans chacun (à modifier pour ajouter un jeu).
 - `src/data/pokedata.js` : chargement PokéAPI (CSV officiels → noms FR + Pokédex régionaux ; repli API REST) avec cache.
-- `src/lib/store.js` : sauvegarde localStorage (Living Dex + Banque), import/export JSON (accepte l'ancien format Lovable).
+- `src/lib/store.js` : sauvegarde localStorage (Living Dex + Banque), import/export JSON.
 - `src/lib/pkm.js` : lecture des fichiers PKHeX `.pk3/.ek3` (80/100 o) et `.pk4/.ek4/.pkm` (136/236 o).
 - `src/views/` : Dashboard, Pokédex National, Pokédex par jeu, Banque, Paramètres.
 
