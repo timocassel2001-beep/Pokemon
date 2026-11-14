@@ -81,6 +81,7 @@ Tutoriel complet, avec d'autres logiciels (Delta Patcher, xdelta UI, UniPatcher,
 
 Le dossier [outils/master-living-dex](outils/master-living-dex) contient une banque et un suivi de Living Dex qui fonctionnent dans le navigateur.
 Ils sont compatibles avec les sauvegardes de tous ces patchs, de la Gen 1 à la Gen 5 : voir [docs/BANQUE.md](docs/BANQUE.md).
+L'ensemble des Pokémon attrapés sur chaque versions sont compatible à la manière des jeux officielles. Aucune donnée des rencontres statiques, échange et cadeau en jeu et des rencontres sauvage n'a été modifiée
 
 ## Arborescence
 
