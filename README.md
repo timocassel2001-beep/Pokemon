@@ -86,6 +86,8 @@ La banque Pokémon est compatible avec certaines ROM Hack tels que Pokemon Eclat
 Créez autant de boîtes et de banque différentes, suivez les méthodes d'évolution et complétez tout les dex de chaque jeux et du dex national à la manière d'un Pokemon Home !
 La sauvegarde de la banque se fait via le cache du navigateur mais aussi grâce au téléchargement et importation des données JSON.
 
+Etant donné que les évolutions par échange ont disparues, Le dex officielle des générations 1 à 4 ne prends pas en compte la nature de l'évolution. De ce fait, chaque Pokémon est déclarée automatiquement comme légal.
+
 ## Arborescence
 
 ```
