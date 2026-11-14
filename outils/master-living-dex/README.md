@@ -38,7 +38,7 @@ Plateformes : Game Boy (Gen 1), Game Boy Color (Gen 2), GBA (Gen 3), NDS Gen 4 (
 - Il n'est pas conseillé de transférer les Pokémon issues de ROM hacks entre eux ou vers un jeux officiel dû au changement de binarité de la ROM Hack concernée.
 
 ## Transferts entre jeux officiels
-« Transférer vers un autre jeu… » (fiche) ou « Transférer la boîte… » dans une banque Jeux officiels.
+« Transférer vers un autre jeu… » ou « Transférer la boîte… » dans une banque Jeux officiels.
 La règle des vrais jeux prime : prise en charge des échanges dans une même génération, la Capsule Temporelle (Gen 1 ⇄ Gen 2), le Parc des Amis (Gen 3 → 4, sans CS avec le Pokedex National), Poké Fret (Gen 4 → 5, sans CS avec Pokedex National), Poké Transfert + Banque Pokémon (Gen 5 → 6/7), Console Virtuelle (Gen 1/2 → 7), Pokémon HOME (vers et entre les jeux Switch ; Let's Go : origine Let's Go/GO) non prise en charge pour le moment.
 - Jamais vers une génération plus ancienne (sauf avec la Capsule Temporelle) ; espèce absente du jeu cible = indisponible ; œufs refusés.
 - Échange direct (même format) et Capsule Temporelle : les données sont réellement transférées avec l'écriture possible en sauvegarde.
