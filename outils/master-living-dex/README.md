@@ -7,7 +7,7 @@ Suivi d'un Living Dex complet sur 16 jeux officiels + Banque de Pokémon issus d
 - **Développement** : `npm install` puis `npm run dev`. `npm run build` produit `dist/`.
 
 ## Organisation
-- `src/data/games.js` : jeux suivis et Pokédex disponible dans chacun (à modifier pour ajouter un jeu).
+- `src/data/games.js` : jeux suivis et Pokédex disponible pour chacun des jeux.
 - `src/data/pokedata.js` : chargement PokéAPI (CSV officiels → noms FR + Pokédex régionaux ; repli API REST) avec cache.
 - `src/lib/store.js` : sauvegarde localStorage (Living Dex + Banque), import/export JSON.
 - `src/lib/pkm.js` : lecture des fichiers PKHeX `.pk3/.ek3` (80/100 o) et `.pk4/.ek4/.pkm` (136/236 o).
