@@ -1,0 +1,2558 @@
+[
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 3450,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "fbf163e62ee1cc28ec9a1b79e002902b",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 3439,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "0c577a9265dcf963e17295014523b42a",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "c13c790dee5040ace29737da47d75fd6",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "48c9088089480bd2d91144221c3d9242",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "09294926b44cd5ddc7407eac44618f6a",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "49cdd82944d10357e312ab9d16804f6f",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "51bba007bbd017788f4398d0aaadb3f4",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Bleue",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen1/Bleue/Pokemon_Bleue_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "35c8154c81abb2ab850689fd28a03515",
+  "out_md5": "3c16e7243214838d27ec916d1e042756",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 3651,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "b0e48051965d7cea9934996470b39a1c",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 3640,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "c8b4fc424a2a393a07ec4a8772e6dae9",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 6801,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "7338f835ae31d675088149d6ab75880f",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 6790,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "3986fcf69cd78d5ce7ad4c00be7a6e9e",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 6801,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "bb548af3b885b915c37b09f5fb2598d5",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 6790,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "fef5dd79641cbff4d1c9683893a52db8",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 6801,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "26e39ed3d635f4a361082473170bdce9",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Jaune",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen1/Jaune/Pokemon_Jaune_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 6790,
+  "src_md5": "2df6b439a35e0d511d52fa75c6a7849a",
+  "out_md5": "a4bd22cdfb4778127418f343f60b8755",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 396,
+    "premier_combat": 1,
+    "a_5_pokemon": 135,
+    "octets": 3028,
+    "capacite": 3029
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 3450,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "60da1ad04d08fa054ee1ff792659e53e",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 3439,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "28aa89220cc1062e38a58367b81f704b",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "32a6b9c9550ca6df9606e1db4d3036a2",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "9664f9254930c924cb3a8f3ff908a138",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "c484604299899f66c62ddeff2ea0c7db",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "028400da5de65bb2fa97803fe7a849f6",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 6558,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "fea61965429ff85275d413cc4ce5bde8",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 1,
+  "game": "Rouge",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen1/Rouge/Pokemon_Rouge_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 6547,
+  "src_md5": "669700657cb06ed09371cdbdef69e8a3",
+  "out_md5": "e0e2800611d4de0ee078702fc1fb41a6",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 391,
+    "premier_combat": 3,
+    "a_5_pokemon": 126,
+    "octets": 2987,
+    "capacite": 2987
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 5760,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "8c7267801e64ad424606746899870dd4",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 5749,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "ad93c066dd516b7eedfc183a4390ff07",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 15638,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "b3a75a7e09949371308175c850b58435",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 15628,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "c7a17e393731d5c481d6938b3cae7877",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 15638,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "f39287dc7f4f114ec6986af74a98c5fb",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 15628,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "7e6d9e2aefa0c3101a9f0735c1f6b413",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 15638,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "b8a10df4c05acc50ef29e64d2649709c",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Argent",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen2/Argent/Pokemon_Argent_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 15628,
+  "src_md5": "72448fe75f534f70cd90469da95ef76f",
+  "out_md5": "e0bd8e210c294547ae6f201854547a0d",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 5385,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "c91f11f8b9ed372f558529e36da65223",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 5374,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "b7d88026b932dd077c8072346f096c2f",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 15225,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "7347de353eae5b8161ce965094aaeb02",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 15215,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "201dbb4352959ace416407d3273c4202",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 15225,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "e1aa58b7e4bd899849a495f85f5d774f",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 15215,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "161e3d1f42ab2e959e72d4e96c3eceba",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 15225,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "0b9fc7255d823becb6e74d01afb46bb2",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Cristal",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen2/Cristal/Pokemon_Cristal_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 15215,
+  "src_md5": "45d988bdb6cfcc334134dd212cefb7b8",
+  "out_md5": "a4653c828950b4609d65da5f91dd1642",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 541,
+    "premier_combat": 3,
+    "tailles": {
+     "2": 59,
+     "3": 401,
+     "4": 48,
+     "5": 15,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 6028,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "a4a2f94376d066f23ef546ea020af62b",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 6017,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "caf377237a6a85f347f170a3897c2649",
+  "check": "GB",
+  "ok": true,
+  "info": []
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 15906,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "9ea60c0ed2b438e43044c054d4bf76ec",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 15896,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "dccc6532e3a5755153d7d6da9a636b8f",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 15906,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "662c13253c02897ffb4099fc86a0049a",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 15896,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "ebe8946e56c092d6d8914c1f7d8442d1",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 15906,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "9fb1ed140a49a737703b562f92556dfb",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 2,
+  "game": "Or",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen2/Or/Pokemon_Or_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 15896,
+  "src_md5": "9af19423c5fa3dbe4fdcc78d2bc7d1c0",
+  "out_md5": "ffdaeb47504196b6982120c78553fb86",
+  "check": "GB",
+  "ok": true,
+  "info": [
+   {
+    "dresseurs": 491,
+    "premier_combat": 3,
+    "tailles": {
+     "4": 452,
+     "5": 21,
+     "6": 15
+    }
+   }
+  ]
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 18837,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "6481f0c5fcdec3c33fb5dea79b3f64bc",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 18710,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "14a6dbbb1465f978bbeb2411c0ab74ba",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 114693,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "0b324971eaa23ada3382195dd303fe72",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 114566,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "6700ce060b59a63b11c14e3abfa24189",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 114693,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "733513fd51e6af8507cb8da70d010115",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 114566,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "69d52c1e090fa6e4a244d6fcb5babad1",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 114693,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "55cb592119cfc93937901ebe86f072e7",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Emeraude",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen3/Emeraude/Pokemon_Emeraude_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 114566,
+  "src_md5": "2c00e335288a96650e34785b5e2a7588",
+  "out_md5": "e7de6d7d77347926b3da037173cd6cda",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 15715,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "fd18ca3999bf9aace54c958a0fa20a94",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 15588,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "7076ffafa01b52045879d0dcd3667b2a",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 100288,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "7f8aa8552d71b04a5ae29f1f5269090b",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 100161,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "3c9bda90e7fcb2de93283491ce638fa6",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 100288,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "ccd51839514cc2d30429c4123889a2f1",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 100161,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "33e86ce76bb10c9a0048f887828435c2",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 100288,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "336f6d42a6343c569546e1da6475f2a2",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rouge_Feu",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen3/Rouge_Feu/Pokemon_Rouge_Feu_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 100161,
+  "src_md5": "b8663b80eef5a1e9b41b683aa1234902",
+  "out_md5": "6fd953378af9c29c0e80b0021de6f4be",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 10189,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "1903642b3e48251cd7131ffc68f0d308",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 10054,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "7cf1405191fb935d3a577abee6ba0997",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 87359,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "c291c7dad7a281f90abe7f4043d0dab8",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 87224,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "54f0b7d831b72e99700fb94b53c80716",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 87359,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "f8589eb57ee3fc9d25cb7dea8fe3192b",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 87224,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "fb334c72df4af2ccb7ae8c1ea45afd9b",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 87359,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "f2b35ba8e30fd98e4b3885f08eec3de1",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Rubis",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen3/Rubis/Pokemon_Rubis_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 87224,
+  "src_md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
+  "out_md5": "791f7d360c6243db7fcf344c9f844558",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 10177,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "259053d7960aa1647259287d80890936",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 10042,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "ece08762c5ea3418b0c483da10314426",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 87345,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "7faba1c6a8ba111f1b2fe3354cdc27dd",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 87210,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "cd531acb0ba9c7497e0f6393731ed4e5",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 87345,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "33a5495e6bd7ad0034e092eb3482639a",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 87210,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "61033cb41bb4f728e76a2ecc9c41e2c7",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 87345,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "e913a0dc817de33fcb2c4a846ca1e56f",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Saphir",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen3/Saphir/Pokemon_Saphir_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 87210,
+  "src_md5": "c59c79d8bfacd27a1c3fafda2bd801d0",
+  "out_md5": "9d84e1b50122d1b81ddc596678e26a51",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 14646,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "53bd8ce799803241cf43f377fd5737d8",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 14519,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "61076c84b54d628e9337b44448d029a3",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 99219,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "ab2e51f051df8f0547e4e757b1007dc0",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 99092,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "b475dfa87566af1325a5644e2ca88222",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 99219,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "56686c2ee0e327d91f8bad9f1dcc3a47",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 99092,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "4f7e777617283cddb62ff899e3a57bec",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 99219,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "4ec2262e10557b9b16c63bd53b108f19",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 3,
+  "game": "Vert_Feuille",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen3/Vert_Feuille/Pokemon_Vert_Feuille_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 99092,
+  "src_md5": "c5bc831107f459816508b45d9392afc9",
+  "out_md5": "6be96560438a360a43ff1386631f731c",
+  "check": "GBA",
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 200073,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "2c7ac991565facca65c7cdf57607f4ef",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 199961,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "7473c5d16dbe48eadeddab9b35efb381",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 323843,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "cc2d44605d06c6a3bdc693e686d0f33b",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 323731,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "cfbb39c08824f519432ec32d983d734f",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 323842,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "0521397517d15aa4446549e411617f62",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 323730,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "c88a886478e41d6d901732e9dea0adc1",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 323841,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "5e251c6af8cfcbd019d01f924d265615",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Diamant",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen4/Diamant/Pokemon_Diamant_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 323729,
+  "src_md5": "da0382f57cee0f6807f43a61a68c0520",
+  "out_md5": "cae236fe814b43656a36080c28d8a289",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 204556,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "17c76290f0bff851b8c2ebf4422c75d2",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 201782,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "b9bdd50db7b62a0ae7d2e8fd23cd4a4c",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 326371,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "18255bda93e6f104bdd3d2d7e77190d5",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 323597,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "3caa9160b5b72f2e6daf55669665a0e9",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 326409,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "98a1a84eec684535b509e65b56592db1",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 323635,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "f83295ef298b9717176040cd61566664",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 326405,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "868d234b1866e89c1d2a8f8897cdecac",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "HeartGold",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen4/HeartGold/Pokemon_HeartGold_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 323631,
+  "src_md5": "1f937c6376a25ff36358ca5819c83f5a",
+  "out_md5": "82e4f1f41dd96432fc9421333c502abb",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 200073,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "c2365caedcc27dc5c51b6b7acd4e5ff9",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 199961,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "719c19375f5816303a8b76c43edd3c0c",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 323843,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "42485ff285ca8db61158fc7a92aa2e5d",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 323731,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "7fa358e9e2b4ee064c18ede3300e2970",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 323842,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "02047ae087ba86836ee5e2b8e79a2173",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 323730,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "17122711de3ad4854858567c32bf457d",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 323841,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "9dc17efdd891e18c9d4c686ace7f3829",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Perle",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen4/Perle/Pokemon_Perle_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 323729,
+  "src_md5": "a2c9d259ad7262e5dcd5dd3ff08d798a",
+  "out_md5": "08741088c9773ea35017624c9d7ebae0",
+  "check": [
+   "fid11",
+   "msgdata/msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 396010,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "c7eb344bc36ba07054f96aba1e3b85eb",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 395898,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "1a96ca13cc33839289eb0046f7da4d55",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 544504,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "57f9d80d48fa2fba381b878707469aab",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 544392,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "90d3bb7c8a26c19d24bd1e52f680d43c",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 544500,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "a8334ece2699012455c041582bc46272",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 544388,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "e4813c3a1b01bb7be1dc40065ef1068a",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 544501,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "fe48b0f6428944f8b286a04e9cb53ebf",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "Platine",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen4/Platine/Pokemon_Platine_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 544389,
+  "src_md5": "677e7e1965a4c6f3d020144289cac275",
+  "out_md5": "85bfa83b3be01aa91778b08304abd96b",
+  "check": [
+   "fid16",
+   "msgdata/pl_msg.narc",
+   "poketool/personal/evo.narc",
+   "poketool/trainer/trdata.narc",
+   "poketool/trainer/trpoke.narc"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 204556,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "18ee6091bd5710360ba4c067d9b1954a",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 201782,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "b56ce08af725621155def51e5b516df4",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 326371,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "dc2548e3a33986952e65e75375ee56c9",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 323597,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "0946dae1e2e424b05232efdde3c9ebd1",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 326409,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "86f63f94f14cc0fe14a5f4b9df4573b9",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 323635,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "8cd5977b1d3577d81368d8d70ad677a1",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 326405,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "e05e9251450cc48df712959dd12e87ae",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 4,
+  "game": "SoulSilver",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen4/SoulSilver/Pokemon_SoulSilver_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 323631,
+  "src_md5": "7aee270f3ce81ccf897badc2307b88a9",
+  "out_md5": "dd981a5a94652c0128dc65f2778b7965",
+  "check": [
+   "a/0/2/7",
+   "a/0/3/4",
+   "a/0/5/5",
+   "a/0/5/6",
+   "fid12"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 266333,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "6b8d3f939faa63cbcfa8af5dfa0d50b5",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 266189,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "63a8a8662991bc62c2962661a9181a7c",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 344224,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "3eb4efef4ff0e0b300b7b3628fe60530",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 344081,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "bade45926044a323c0736fbae7789c76",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 344207,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "c304e892a58e8ae52f728c01abf146e6",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 344064,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "b6ff6162733b0acf83a1df85d11aaa30",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 344207,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "1afeabfebc3b11fb67d9b5830108776b",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen5/Blanche/Pokemon_Blanche_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 344064,
+  "src_md5": "675fc1dabf7a45e586d74ed989fdadf7",
+  "out_md5": "9f8f896e3e3de7a802887be9150358cf",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 155735,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "adef8792ddbbc329c7290d19b60b5cf3",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 155336,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "b4b8dc268ad8501ffd4ad335dff04a12",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 259456,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "dcdc543660da5919dbfd50be1d1f835f",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 259059,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "a95817b6c6383bdad1d994e0a95f44a1",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 259739,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "915b67f75bb10a5aa1964699204b1896",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 259342,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "89d3628cd29b20865b30f53c63828990",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 259739,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "4aa2d41882f875b600f90a62c4c65498",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Blanche_2",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen5/Blanche_2/Pokemon_Blanche_2_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 259342,
+  "src_md5": "248b7919fdd716a37128864aef4b18b9",
+  "out_md5": "1aee121aa79a3485f9f1a811292f8caa",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 266333,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "c81ec445cc305eecd4e48a4ad76165b6",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 266189,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "b0cc89416879639c3123504c1b68530c",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 344224,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "76666a79df727d561ff3814fccc8cff1",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 344081,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "b63dd241aca9f46df790a20db1bd737d",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 344207,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "833fc5c610ea9df28151eb3e75135b11",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 344064,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "a65ce97a45222655295e975fe1179e67",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 344207,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "4bf1b78fb7aa2f4d96855f31b3648b56",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid93",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen5/Noire/Pokemon_Noire_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 344064,
+  "src_md5": "92484e56aa45fd2cef5c4d973f6e10b1",
+  "out_md5": "b86f44bf96b0499ce98d70cb20577c01",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/2",
+   "a/0/9/3",
+   "fid94"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "1_Vitesse_MultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_1_Vitesse_MultiExp.xdelta",
+  "size": 155733,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "0bedbb74a05421eb3385f505e11fd80f",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "1_Vitesse_SansMultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_1_Vitesse_SansMultiExp.xdelta",
+  "size": 155336,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "c4ae340de8527401c8686f4c69da3850",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "2_Hardcore_6Pokemon_MultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_2_Hardcore_6Pokemon_MultiExp.xdelta",
+  "size": 282270,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "eaed59e032b66c6eb4dc6683684feec2",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "2_Hardcore_6Pokemon_SansMultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_2_Hardcore_6Pokemon_SansMultiExp.xdelta",
+  "size": 281873,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "66f7ebd53977ff497696a8a624f298a9",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "3_Hardcore_+23pc_MultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_3_Hardcore_+23pc_MultiExp.xdelta",
+  "size": 282635,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "8c31b9d3853ce8f34eb0c982d116ab94",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "3_Hardcore_+23pc_SansMultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_3_Hardcore_+23pc_SansMultiExp.xdelta",
+  "size": 282238,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "8674f3f0bd6fcee46ef494418e49a2d0",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "3_Hardcore_+30pc_MultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_3_Hardcore_+30pc_MultiExp.xdelta",
+  "size": 282635,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "d330c5f35e52b361953d2fb293f403aa",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid167",
+   "fid168"
+  ],
+  "ok": true
+ },
+ {
+  "gen": 5,
+  "game": "Noire_2",
+  "variant": "3_Hardcore_+30pc_SansMultiExp",
+  "file": "patches/Gen5/Noire_2/Pokemon_Noire_2_FR_3_Hardcore_+30pc_SansMultiExp.xdelta",
+  "size": 282238,
+  "src_md5": "6f9fa0d59a1fa1808f0f6908fd0e10ab",
+  "out_md5": "73cc56f2b4a3d33b4a60b7a4b0565d2b",
+  "check": [
+   "a/0/0/2",
+   "a/0/1/9",
+   "a/0/9/1",
+   "a/0/9/2",
+   "fid168"
+  ],
+  "ok": true
+ }
+]
