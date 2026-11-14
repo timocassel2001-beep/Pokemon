@@ -8,7 +8,7 @@ La version **1 · Vitesse** est identique à la version **1 · Vitesse + Multi E
 | Fonction | Gen 3 (GBA) | Gen 4 (DS) | Gen 5 (DS) |
 |---|---|---|---|
 | Barres PV / EXP instantanées | ✅ | ✅ | ✅ |
-| Texte instantané jusqu'à la prochaine attente de touche | ✅ (défilement accéléré en Émeraude / RF / VF) | ✅ | ❌ |
+| Texte instantané jusqu'à la prochaine attente de touche | ✅ (défilement accéléré sur Émeraude / RF / VF) | ✅ | ❌ |
 | 60 images/s | déjà natif | ✅ (le jeu tourne 2× plus vite) | — |
 | Multi Exp automatique (Gen 6) : 100 % aux participants, 50 % au reste, rien aux Œufs ni aux K.O. | ✅ | ✅ | ✅ |
 | Évolutions par échange supprimées | ✅ niveau 37 (voir note) | ✅ niveau 37 ou objet tenu | ✅ niveau 37 ou objet tenu |
